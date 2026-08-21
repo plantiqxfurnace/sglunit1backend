@@ -1,0 +1,19 @@
+{
+  "config": {
+    "thresholdDeg": 5,
+    "sustainMinutes": 2,
+    "cooldownMinutes": 30,
+    "enableUndercool": false,
+    "thresholdLowDeg": 50
+  },
+  "assetLimits": {
+    "G0991": { "high": null, "low": null },
+    "G1017": { "high": null, "low": null },
+    "G1177": { "high": null, "low": null },
+    "G1178": { "high": null, "low": null }
+  },
+  "subscribers": {
+    "emails": [],
+    "whatsapp": []
+  }
+}
